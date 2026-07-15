@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use Amoeba Core v2 or its empirical evidence, cite the preferred publication below."
+title: "Amoeba Core v2"
+type: software
+authors:
+  - family-names: "Elmore"
+    given-names: "Richard T."
+    affiliation: "HeadSoft Research"
+repository-code: "https://github.com/headsoftsoftware/amoeba_core_v2"
+url: "https://headsoft.org/research/equal-evidence/"
+version: "0.1"
+date-released: "2026-07-14"
+preferred-citation:
+  type: article
+  title: "Equal Evidence, Different Outcomes: A Process-Isolated Evaluation of Governed External Reasoning Around Small Language Models"
+  authors:
+    - family-names: "Elmore"
+      given-names: "Richard T."
+      affiliation: "HeadSoft Research"
+  year: 2026
+  doi: "10.5281/zenodo.21367631"
+  url: "https://headsoft.org/research/equal-evidence/"
